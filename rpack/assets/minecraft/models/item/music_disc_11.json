@@ -1,0 +1,44 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/music_disc_11"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "infinite_music_discs:item/music_disc_arcticmonkeysfivezerofive"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "infinite_music_discs:item/music_disc_captainsparkleztryhardninjarevenge"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "infinite_music_discs:item/music_disc_carolinagaitanlagaitamaurocastilloadassarhenzyfelizdianeguerrerostephaniebeatriz"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "infinite_music_discs:item/music_disc_windrosediggydiggyhole"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "infinite_music_discs:item/music_disc_radioactivebuthesbreathingin"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "infinite_music_discs:item/music_disc_imaginedragonsradioactive"
+        }
+    ]
+}

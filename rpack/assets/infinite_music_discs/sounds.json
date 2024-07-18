@@ -1,0 +1,50 @@
+{
+    "music_disc.arcticmonkeysfivezerofive": {
+        "sounds": [
+            {
+                "name": "infinite_music_discs:records/arcticmonkeysfivezerofive",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.captainsparkleztryhardninjarevenge": {
+        "sounds": [
+            {
+                "name": "infinite_music_discs:records/captainsparkleztryhardninjarevenge",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.carolinagaitanlagaitamaurocastilloadassarhenzyfelizdianeguerrerostephaniebeatriz": {
+        "sounds": [
+            {
+                "name": "infinite_music_discs:records/carolinagaitanlagaitamaurocastilloadassarhenzyfelizdianeguerrerostephaniebeatriz",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.windrosediggydiggyhole": {
+        "sounds": [
+            {
+                "name": "infinite_music_discs:records/windrosediggydiggyhole",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.radioactivebuthesbreathingin": {
+        "sounds": [
+            {
+                "name": "infinite_music_discs:records/radioactivebuthesbreathingin",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.imaginedragonsradioactive": {
+        "sounds": [
+            {
+                "name": "infinite_music_discs:records/imaginedragonsradioactive",
+                "stream": true
+            }
+        ]
+    }
+}
