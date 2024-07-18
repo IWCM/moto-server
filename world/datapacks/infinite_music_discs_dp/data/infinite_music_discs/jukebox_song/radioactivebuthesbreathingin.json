@@ -1,0 +1,9 @@
+{
+    "comparator_output": 11,
+    "description": "Radioactive but he's breathing in",
+    "length_in_seconds": 185.535,
+    "sound_event": {
+        "sound_id": "infinite_music_discs:music_disc.radioactivebuthesbreathingin",
+        "range": 64.0
+    }
+}
