@@ -1,0 +1,58 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 170.203.211.40
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1721269592382
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721269713836
+  login: 1721266926528
+money: '551.990'
+last-account-name: .li1miester15
+logoutlocation:
+  world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
+  world-name: world
+  x: 127.28615
+  y: 65.0
+  z: -97.30001
+  yaw: 179.494140625
+  pitch: 11.479965209960938
+past-usernames:
+- li1miester15
+- .li1miester15
+lastlocation:
+  world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
+  world-name: world
+  x: 240.10786
+  y: 199.0
+  z: -669.1701
+  yaw: -3.157196044921875
+  pitch: 4.52142333984375
+mail:
+- legacy: false
+  read: true
+  message: '"Hello!"'
+  sender-name: TacoD0gg
+  sender-uuid: 17420cb1-ec96-31e0-9ded-085a45fff1f5
+  timestamp: 1715836087905
+  expire: 0
+homes:
+  home:
+    world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
+    world-name: world
+    x: 211.5
+    y: 66.0
+    z: -287.5
+    yaw: 13.60235595703125
+    pitch: 25.458663940429688

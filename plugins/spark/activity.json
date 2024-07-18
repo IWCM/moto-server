@@ -1,0 +1,39 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "TacoD0gg",
+      "uniqueId": "2d07a586-6893-44ad-85f2-156cfcc73a09"
+    },
+    "time": 1719550075921,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/wyOwERSlb7"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "CONSOLE"
+    },
+    "time": 1719171555812,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/CXE46ftIbS"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "CONSOLE"
+    },
+    "time": 1719171362044,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/qVKAufssQo"
+    }
+  }
+]

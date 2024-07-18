@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 68.204.34.233
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1719384193002
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719386019040
+  login: 1719381110087
+money: '0'
+last-account-name: .TRG3487
+lastlocation:
+  world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
+  world-name: world
+  x: -101.8121
+  y: 48.0
+  z: -181.53482
+  yaw: -155.15640258789062
+  pitch: 51.687744140625
+logoutlocation:
+  world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
+  world-name: world
+  x: -101.8121
+  y: 48.0
+  z: -181.53482
+  yaw: -155.15640258789062
+  pitch: 51.687744140625
+past-usernames:
+- TRG3487

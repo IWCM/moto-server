@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.254.176
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1718321047899
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719834769469
+  login: 1719834760461
+money: '494.999'
+last-account-name: TacoD0gg
+logoutlocation:
+  world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
+  world-name: world
+  x: 110.92707510473282
+  y: 52.0
+  z: -99.88345185665817
+  yaw: -0.447906494140625
+  pitch: 2.100006341934204
+lastlocation:
+  world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
+  world-name: world
+  x: -576.360191435536
+  y: -41.0
+  z: -1323.4785409444016
+  yaw: -93.76239013671875
+  pitch: 14.543243408203125
+homes:
+  home:
+    world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
+    world-name: world
+    x: 125.82819014145717
+    y: 64.0
+    z: -110.4792560645968
+    yaw: -53.850032806396484
+    pitch: 26.84998893737793

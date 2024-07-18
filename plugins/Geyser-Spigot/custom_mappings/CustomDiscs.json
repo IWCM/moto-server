@@ -1,0 +1,43 @@
+{
+  "format_version": "1",
+  "items": {
+    "minecraft:music_disc_11": [
+      {
+        "name": "music_disc_505",
+        "allow_offhand": true,
+        "icon": "music_disc_505",
+        "custom_model_data": 1
+      },
+      {
+        "name": "music_disc_revenge",
+        "allow_offhand": true,
+        "icon": "music_disc_revenge",
+        "custom_model_data": 2
+      },
+      {
+        "name": "music_disc_bruno",
+        "allow_offhand": true,
+        "icon": "music_disc_bruno",
+        "custom_model_data": 3
+      },
+      {
+        "name": "music_disc_diggydiggyhole",
+        "allow_offhand": true,
+        "icon": "music_disc_diggydiggyhole",
+        "custom_model_data": 4
+      },
+      {
+        "name": "music_disc_radioactivebuthesbreathingin",
+        "allow_offhand": true,
+        "icon": "music_disc_radioactivebuthesbreathingin",
+        "custom_model_data": 5
+      },
+      {
+        "name": "music_disc_radioactive",
+        "allow_offhand": true,
+        "icon": "music_disc_radioactive",
+        "custom_model_data": 6
+      }
+    ]
+  }
+}

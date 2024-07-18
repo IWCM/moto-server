@@ -1,0 +1,71 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 76.77.232.252
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1721074026798
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721074538224
+  login: 1721072616988
+money: '0'
+last-account-name: KasalaHere
+logoutlocation:
+  world: 172b702f-7783-4caf-bfd5-cf5df36b18a9
+  world-name: world_the_end
+  x: 3251.814558504194
+  y: 58.0
+  z: -487.5661958696274
+  yaw: -54.152130126953125
+  pitch: 16.650741577148438
+homes:
+  home:
+    world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
+    world-name: world
+    x: 87.38657103094509
+    y: 64.0
+    z: -325.5466488910187
+    yaw: -86.70066833496094
+    pitch: 38.40004348754883
+  sky:
+    world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
+    world-name: world
+    x: 76.12440885347733
+    y: 90.0
+    z: -320.63154392890397
+    yaw: -88.41925048828125
+    pitch: 24.89995765686035
+  tbh:
+    world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
+    world-name: world
+    x: 1395.866802688111
+    y: 103.0
+    z: 14227.815705373238
+    yaw: -171.10025024414062
+    pitch: 25.199981689453125
+  end:
+    world: 172b702f-7783-4caf-bfd5-cf5df36b18a9
+    world-name: world_the_end
+    x: 1128.6161837025375
+    y: 63.0
+    z: 676.8779073658003
+    yaw: -91.3548355102539
+    pitch: 19.50002670288086
+lastlocation:
+  world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
+  world-name: world
+  x: 77.93538198796884
+  y: 90.0
+  z: -320.06045159895973
+  yaw: -78.51922607421875
+  pitch: 5.84995174407959

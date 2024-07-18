@@ -1,0 +1,41 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 166.196.92.178
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1719619805035
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719983191019
+  login: 1719979930411
+money: '0'
+last-account-name: .Green_Blade5992
+logoutlocation:
+  world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
+  world-name: world
+  x: 144.66072
+  y: 66.0
+  z: -152.03212
+  yaw: 68.34848022460938
+  pitch: 24.842620849609375
+lastlocation:
+  world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
+  world-name: world
+  x: 187.57988
+  y: 71.0
+  z: -218.52074
+  yaw: 0.04290771484375
+  pitch: 12.064605712890625
+past-usernames:
+- Green_Blade5992
+- .Green_Blade5992

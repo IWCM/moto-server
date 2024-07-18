@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 219.79.56.100
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1721204141013
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721274783895
+  login: 1721274730868
+money: '2054.0'
+last-account-name: Prionsi
+lastlocation:
+  world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
+  world-name: world
+  x: 181.69999998807907
+  y: 59.0
+  z: -86.7692372013537
+  yaw: 150.00070190429688
+  pitch: 21.1500244140625
+logoutlocation:
+  world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
+  world-name: world
+  x: 338.70635650089525
+  y: 71.0
+  z: -535.2965547091642
+  yaw: -14.87989330291748
+  pitch: 33.75028610229492
+homes:
+  leather:
+    world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
+    world-name: world
+    x: -2091.1328962610396
+    y: 63.0
+    z: -824.7720139718937
+    yaw: 52.16705322265625
+    pitch: 4.200002670288086
+  base:
+    world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
+    world-name: world
+    x: 325.42262054865984
+    y: 79.0625
+    z: -535.8369281554732
+    yaw: 37.77067184448242
+    pitch: 56.85032272338867

@@ -1,0 +1,4 @@
+Welcome, {PLAYER}!
+Joining from {IP} on {WORLD} running {VERSION}.
+There are currently {ONLINE} players online out of a maximum of {MAXPLAYERS}.
+

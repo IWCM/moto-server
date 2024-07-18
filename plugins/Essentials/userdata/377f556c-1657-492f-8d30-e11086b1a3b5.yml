@@ -1,0 +1,79 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 73.92.137.245
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1721200244213
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721202963458
+  login: 1721199310376
+money: '108.010'
+last-account-name: ahzayoc
+lastlocation:
+  world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
+  world-name: world
+  x: 235.6596027740982
+  y: 64.12145482055045
+  z: -281.87422879707896
+  yaw: -160.25694274902344
+  pitch: -0.911865234375
+logoutlocation:
+  world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
+  world-name: world
+  x: 229.29890571407827
+  y: 64.5625
+  z: -133.3743926743467
+  yaw: -1.982421875
+  pitch: 21.64598846435547
+homes:
+  breeder:
+    world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
+    world-name: world
+    x: 178.5
+    y: 61.0
+    z: -88.5
+    yaw: 86.34445190429688
+    pitch: 45.64813232421875
+  home:
+    world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
+    world-name: world
+    x: 225.5
+    y: 64.0
+    z: -136.5
+    yaw: 85.97683715820312
+    pitch: 88.35502624511719
+  mesa:
+    world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
+    world-name: world
+    x: -2400.593917510253
+    y: 70.0
+    z: -711.4790081656301
+    yaw: -162.78106689453125
+    pitch: 33.14554214477539
+  trial:
+    world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
+    world-name: world
+    x: -1866.5698209304987
+    y: -7.0
+    z: -2601.374218576261
+    yaw: 179.878662109375
+    pitch: 16.387372970581055
+  end:
+    world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
+    world-name: world
+    x: -868.5
+    y: 14.0
+    z: 1386.5
+    yaw: -5.286618709564209
+    pitch: 89.38313293457031

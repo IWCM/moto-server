@@ -1,0 +1,79 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 204.191.203.90
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1721294741748
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721294818578
+  login: 1721291735879
+money: '599.000'
+last-account-name: CrozzoWaffle
+lastlocation:
+  world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
+  world-name: world
+  x: 1675.8569760271214
+  y: 94.18997166797583
+  z: -21.875255127015073
+  yaw: 121.09979248046875
+  pitch: 32.09992218017578
+logoutlocation:
+  world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
+  world-name: world
+  x: -96.0713264895704
+  y: 234.0
+  z: -170.5840654348253
+  yaw: 150.15025329589844
+  pitch: 8.099903106689453
+homes:
+  p:
+    world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
+    world-name: world
+    x: 2004.4565228959757
+    y: 95.0
+    z: 154.54581468820854
+    yaw: 1.404327392578125
+    pitch: 60.44998550415039
+  city_:
+    world: 172b702f-7783-4caf-bfd5-cf5df36b18a9
+    world-name: world_the_end
+    x: -582.1936222234764
+    y: 65.0
+    z: -871.9701907554002
+    yaw: 171.29840087890625
+    pitch: 30.74985122680664
+  mend:
+    world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
+    world-name: world
+    x: 180.6499924722806
+    y: 62.0
+    z: -88.30000001192093
+    yaw: 164.8529052734375
+    pitch: 1.9499785900115967
+  spruce:
+    world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
+    world-name: world
+    x: 636.1750044656387
+    y: 64.0
+    z: -714.3609668521943
+    yaw: -111.977783203125
+    pitch: 5.399847030639648
+  base:
+    world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
+    world-name: world
+    x: 2015.5774026914144
+    y: -39.0
+    z: 140.53509199536057
+    yaw: 165.95440673828125
+    pitch: 13.200029373168945

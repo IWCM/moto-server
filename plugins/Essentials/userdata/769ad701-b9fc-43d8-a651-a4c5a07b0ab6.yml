@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 110.227.39.233
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1719201021862
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1719201221701
+  login: 1719199726505
+money: '0'
+last-account-name: TheRadioArc
+lastlocation:
+  world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
+  world-name: world
+  x: -101.86372393772731
+  y: 235.0625
+  z: -183.78659515735959
+  yaw: 165.89999389648438
+  pitch: -39.45002746582031
+logoutlocation:
+  world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
+  world-name: world
+  x: 128.5
+  y: 62.0
+  z: -165.377
+  yaw: -33.877784729003906
+  pitch: 12.990230560302734
