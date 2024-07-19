@@ -11,31 +11,31 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1721294741748
+  lastteleport: 1721343615008
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1721294818578
-  login: 1721291735879
+  logout: 1721343679130
+  login: 1721341381384
 money: '599.000'
 last-account-name: CrozzoWaffle
 lastlocation:
   world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
   world-name: world
-  x: 1675.8569760271214
-  y: 94.18997166797583
-  z: -21.875255127015073
-  yaw: 121.09979248046875
-  pitch: 32.09992218017578
+  x: 1977.4554250074184
+  y: 97.0
+  z: 145.24420223782766
+  yaw: 102.65420532226562
+  pitch: 29.699960708618164
 logoutlocation:
   world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
   world-name: world
-  x: -96.0713264895704
-  y: 234.0
-  z: -170.5840654348253
-  yaw: 150.15025329589844
-  pitch: 8.099903106689453
+  x: 5.789430011352744
+  y: 64.0
+  z: -97.65242517090434
+  yaw: -88.79931640625
+  pitch: 38.24992752075195
 homes:
   p:
     world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
