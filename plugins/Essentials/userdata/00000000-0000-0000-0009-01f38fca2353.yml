@@ -11,34 +11,34 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1721452203030
+  lastteleport: 1721524871994
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1721454046480
-  login: 1721452166924
+  logout: 1721526040386
+  login: 1721519276298
 money: '551.990'
 last-account-name: .li1miester15
 logoutlocation:
   world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
   world-name: world
-  x: 101.578964
-  y: 60.0
-  z: -167.40196
-  yaw: 88.59469604492188
-  pitch: 47.159027099609375
+  x: 313.26407
+  y: 63.0
+  z: -283.71075
+  yaw: 89.53671264648438
+  pitch: 49.21327209472656
 past-usernames:
 - li1miester15
 - .li1miester15
 lastlocation:
   world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
   world-name: world
-  x: 690.5
+  x: 389.92188
   y: 64.0
-  z: -688.5
-  yaw: 76.63308715820312
-  pitch: 15.323944091796875
+  z: -578.86255
+  yaw: -147.67349243164062
+  pitch: 8.190093994140625
 mail:
 - legacy: false
   read: true
