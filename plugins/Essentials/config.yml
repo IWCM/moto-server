@@ -178,6 +178,7 @@ disabled-commands:
    - sell
    - money
    - economy
+   - enchant
 #  - nick
 #  - clear
 
