@@ -11,48 +11,32 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1721343615008
+  lastteleport: 1721894124057
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1721343679130
-  login: 1721341381384
-money: '599.000'
+  logout: 1721894139421
+  login: 1721882267182
+money: '0'
 last-account-name: CrozzoWaffle
 lastlocation:
   world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
   world-name: world
-  x: 1977.4554250074184
-  y: 97.0
-  z: 145.24420223782766
-  yaw: 102.65420532226562
-  pitch: 29.699960708618164
+  x: -533.448143582521
+  y: 65.90805017315502
+  z: -470.17671730156627
+  yaw: 7.35699462890625
+  pitch: -5.700353622436523
 logoutlocation:
   world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
   world-name: world
-  x: 5.789430011352744
-  y: 64.0
-  z: -97.65242517090434
-  yaw: -88.79931640625
-  pitch: 38.24992752075195
+  x: 2014.5783402113302
+  y: -37.0
+  z: 111.13833834256208
+  yaw: -29.248607635498047
+  pitch: 26.036304473876953
 homes:
-  p:
-    world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
-    world-name: world
-    x: 2004.4565228959757
-    y: 95.0
-    z: 154.54581468820854
-    yaw: 1.404327392578125
-    pitch: 60.44998550415039
-  city_:
-    world: 172b702f-7783-4caf-bfd5-cf5df36b18a9
-    world-name: world_the_end
-    x: -582.1936222234764
-    y: 65.0
-    z: -871.9701907554002
-    yaw: 171.29840087890625
-    pitch: 30.74985122680664
   mend:
     world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
     world-name: world
@@ -72,8 +56,24 @@ homes:
   base:
     world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
     world-name: world
-    x: 2015.5774026914144
-    y: -39.0
-    z: 140.53509199536057
-    yaw: 165.95440673828125
-    pitch: 13.200029373168945
+    x: 2012.4389630691144
+    y: -37.0
+    z: 110.54648646435113
+    yaw: -96.14859008789062
+    pitch: 19.436277389526367
+  blaze:
+    world: 048b1154-1c29-4dc6-92ef-380db06d50dc
+    world-name: world_nether
+    x: -853.8534950587929
+    y: 75.0
+    z: -383.0897283095742
+    yaw: 49.07448196411133
+    pitch: 17.10036849975586
+  roof:
+    world: 048b1154-1c29-4dc6-92ef-380db06d50dc
+    world-name: world_nether
+    x: -848.3295095689999
+    y: 202.0
+    z: -383.33938379491826
+    yaw: 179.49656677246094
+    pitch: 55.949466705322266

@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 192.168.254.176
+ip-address: 192.168.254.184
 afk: false
 socialspy: false
 npc: false
@@ -11,13 +11,13 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1721532296902
+  lastteleport: 1721885009959
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1721532705617
-  login: 1721533884056
+  logout: 1721885028639
+  login: 1721884597364
 money: '0'
 last-account-name: TacoD0gg
 logoutlocation:
@@ -26,16 +26,16 @@ logoutlocation:
   x: 126.5
   y: 64.0
   z: -112.5
-  yaw: -50.227779388427734
-  pitch: 24.540409088134766
+  yaw: 72.47129821777344
+  pitch: 15.837173461914062
 lastlocation:
   world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
   world-name: world
-  x: -542.4867290375615
-  y: -34.0
-  z: -1325.840702381247
-  yaw: -151.35769653320312
-  pitch: 17.400205612182617
+  x: 321.5476
+  y: 73.5
+  z: -541.54816
+  yaw: -2.082366943359375
+  pitch: 51.527679443359375
 homes:
   home:
     world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
@@ -69,12 +69,4 @@ homes:
     z: -236.2714092859028
     yaw: -137.39349365234375
     pitch: -4.212358474731445
-mail:
-- legacy: false
-  read: true
-  message: hello
-  sender-name: TacoD0gg
-  sender-uuid: 2d07a586-6893-44ad-85f2-156cfcc73a09
-  timestamp: 1716150550354
-  expire: 0
 nickname: TacoD0gg

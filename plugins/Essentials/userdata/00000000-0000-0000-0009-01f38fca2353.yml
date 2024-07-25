@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 170.203.209.58
+ip-address: 170.203.211.82
 afk: false
 socialspy: false
 npc: false
@@ -11,35 +11,42 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1721524871994
+  lastteleport: 1721883335395
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1721526040386
-  login: 1721519276298
-money: '551.990'
+  logout: 1721883648889
+  login: 1721880324013
+money: '0'
 last-account-name: .li1miester15
 logoutlocation:
-  world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
-  world-name: world
-  x: 313.26407
-  y: 63.0
-  z: -283.71075
-  yaw: 89.53671264648438
-  pitch: 49.21327209472656
+  world: 048b1154-1c29-4dc6-92ef-380db06d50dc
+  world-name: world_nether
+  x: 31.195534
+  y: 69.0
+  z: -37.256676
+  yaw: -78.85777282714844
+  pitch: 22.01165771484375
 past-usernames:
 - li1miester15
 - .li1miester15
 lastlocation:
   world: 0ac66a48-0e5a-4639-a63f-36ef4db83d06
   world-name: world
-  x: 389.92188
-  y: 64.0
-  z: -578.86255
-  yaw: -147.67349243164062
-  pitch: 8.190093994140625
+  x: -101.44332
+  y: 235.0
+  z: -181.46706
+  yaw: 137.60882568359375
+  pitch: 18.723007202148438
 mail:
+- legacy: false
+  read: true
+  message: Hello!
+  sender-name: TacoD0gg
+  sender-uuid: 2d07a586-6893-44ad-85f2-156cfcc73a09
+  timestamp: 1721535653689
+  expire: 0
 - legacy: false
   read: true
   message: '"Hello!"'

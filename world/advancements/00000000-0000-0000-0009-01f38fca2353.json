@@ -7104,6 +7104,7 @@
       "minecraft:witch": "2024-06-30 02:19:31 -0500",
       "minecraft:wither_skeleton": "2024-05-26 16:51:51 -0500",
       "minecraft:husk": "2024-06-17 17:50:38 -0500",
+      "minecraft:ghast": "2024-07-23 21:10:48 -0500",
       "minecraft:hoglin": "2024-06-09 21:24:53 -0500",
       "minecraft:cave_spider": "2024-07-12 21:27:32 -0500",
       "minecraft:piglin": "2024-05-26 16:05:41 -0500",
@@ -8015,6 +8016,12 @@
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2024-07-11 01:11:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-07-23 02:20:19 -0500"
     },
     "done": true
   },

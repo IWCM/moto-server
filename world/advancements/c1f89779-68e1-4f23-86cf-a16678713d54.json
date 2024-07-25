@@ -7660,6 +7660,7 @@
       "minecraft:badlands": "2024-07-17 01:59:22 -0500",
       "minecraft:savanna_plateau": "2024-07-17 01:57:25 -0500",
       "minecraft:beach": "2024-07-15 19:46:27 -0500",
+      "minecraft:dark_forest": "2024-07-24 23:49:31 -0500",
       "minecraft:forest": "2024-07-16 02:17:05 -0500",
       "minecraft:sparse_jungle": "2024-07-17 02:00:42 -0500",
       "minecraft:river": "2024-07-15 19:41:09 -0500",
@@ -7671,6 +7672,7 @@
       "minecraft:ocean": "2024-07-14 20:26:42 -0500",
       "minecraft:jungle": "2024-07-17 02:22:43 -0500",
       "minecraft:meadow": "2024-07-17 02:25:36 -0500",
+      "minecraft:birch_forest": "2024-07-24 22:50:01 -0500",
       "minecraft:windswept_hills": "2024-07-16 02:18:23 -0500",
       "minecraft:savanna": "2024-07-17 01:52:42 -0500",
       "minecraft:wooded_badlands": "2024-07-17 02:37:40 -0500",
@@ -7715,9 +7717,11 @@
     "criteria": {
       "minecraft:cave_spider": "2024-07-17 02:29:56 -0500",
       "minecraft:skeleton": "2024-07-16 01:41:09 -0500",
+      "minecraft:piglin": "2024-07-25 00:37:44 -0500",
       "minecraft:spider": "2024-07-15 19:41:43 -0500",
       "minecraft:zombie": "2024-07-15 19:41:32 -0500",
-      "minecraft:creeper": "2024-07-17 02:00:07 -0500"
+      "minecraft:creeper": "2024-07-17 02:00:07 -0500",
+      "minecraft:hoglin": "2024-07-24 23:44:03 -0500"
     },
     "done": false
   },
@@ -7735,6 +7739,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-07-24 23:44:53 -0500",
       "cooked_beef": "2024-07-15 19:46:27 -0500",
       "golden_carrot": "2024-07-16 01:22:55 -0500"
     },
@@ -7749,7 +7754,9 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-07-16 01:35:47 -0500",
-      "minecraft:soul_sand_valley": "2024-07-16 01:37:17 -0500"
+      "minecraft:soul_sand_valley": "2024-07-16 01:37:17 -0500",
+      "minecraft:nether_wastes": "2024-07-25 00:35:04 -0500",
+      "minecraft:basalt_deltas": "2024-07-25 00:35:39 -0500"
     },
     "done": false
   },
@@ -7816,6 +7823,24 @@
   "minecraft:nether/create_beacon": {
     "criteria": {
       "beacon": "2024-07-17 02:58:02 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2024-07-24 21:10:18 -0500"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-07-24 21:10:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-07-24 23:49:31 -0500"
     },
     "done": true
   },
